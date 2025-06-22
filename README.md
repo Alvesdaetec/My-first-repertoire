@@ -1,2 +1,3 @@
 # My-first-repertoire
-Para o fechamento do módulo na Etec.
+Para o fechamento do módulo na ETEC.
+
